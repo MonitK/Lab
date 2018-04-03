@@ -1,4 +1,4 @@
-  /* single linked list */
+  /*Program for implementation of single linked list */
 #include<iostream>
 //#include<conio.h>
 #include<cstdlib>
